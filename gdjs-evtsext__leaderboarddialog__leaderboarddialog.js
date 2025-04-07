@@ -1,3 +1,4 @@
+
 gdjs.evtsExt__LeaderboardDialog__LeaderboardDialog = gdjs.evtsExt__LeaderboardDialog__LeaderboardDialog || {};
 
 /**
@@ -324,7 +325,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("PlayerNameInput"), gdjs.evtsExt
 let isConditionTrue_0 = false;
 {
 {gdjs.playerAuthentication.removeAuthenticationBanner(runtimeScene);
-}{gdjs.evtTools.leaderboards.displayLeaderboard(runtimeScene, eventsFunctionContext.getObjects("Object")[0]._getLeaderboardId(), false);
+}{gdjs.evtTools.leaderboards.displayLeaderboard(runtimeScene, eventsFunctionContext.getObjects("Object")[0]._getLeaderboardId(), true);
 }}
 
 }
