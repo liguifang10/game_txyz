@@ -24,6 +24,14 @@ gdjs.MenuCode.GDTitleObjects1= [];
 gdjs.MenuCode.GDTitleObjects2= [];
 gdjs.MenuCode.GDTitleObjects3= [];
 gdjs.MenuCode.GDTitleObjects4= [];
+gdjs.MenuCode.GDNewBitmapTextObjects1= [];
+gdjs.MenuCode.GDNewBitmapTextObjects2= [];
+gdjs.MenuCode.GDNewBitmapTextObjects3= [];
+gdjs.MenuCode.GDNewBitmapTextObjects4= [];
+gdjs.MenuCode.GDNewPanelSpriteObjects1= [];
+gdjs.MenuCode.GDNewPanelSpriteObjects2= [];
+gdjs.MenuCode.GDNewPanelSpriteObjects3= [];
+gdjs.MenuCode.GDNewPanelSpriteObjects4= [];
 
 
 gdjs.MenuCode.eventsList0 = function(runtimeScene) {
@@ -234,6 +242,14 @@ gdjs.MenuCode.GDTitleObjects1.length = 0;
 gdjs.MenuCode.GDTitleObjects2.length = 0;
 gdjs.MenuCode.GDTitleObjects3.length = 0;
 gdjs.MenuCode.GDTitleObjects4.length = 0;
+gdjs.MenuCode.GDNewBitmapTextObjects1.length = 0;
+gdjs.MenuCode.GDNewBitmapTextObjects2.length = 0;
+gdjs.MenuCode.GDNewBitmapTextObjects3.length = 0;
+gdjs.MenuCode.GDNewBitmapTextObjects4.length = 0;
+gdjs.MenuCode.GDNewPanelSpriteObjects1.length = 0;
+gdjs.MenuCode.GDNewPanelSpriteObjects2.length = 0;
+gdjs.MenuCode.GDNewPanelSpriteObjects3.length = 0;
+gdjs.MenuCode.GDNewPanelSpriteObjects4.length = 0;
 
 gdjs.MenuCode.eventsList4(runtimeScene);
 gdjs.MenuCode.GDBlackRectangleObjects1.length = 0;
@@ -260,6 +276,14 @@ gdjs.MenuCode.GDTitleObjects1.length = 0;
 gdjs.MenuCode.GDTitleObjects2.length = 0;
 gdjs.MenuCode.GDTitleObjects3.length = 0;
 gdjs.MenuCode.GDTitleObjects4.length = 0;
+gdjs.MenuCode.GDNewBitmapTextObjects1.length = 0;
+gdjs.MenuCode.GDNewBitmapTextObjects2.length = 0;
+gdjs.MenuCode.GDNewBitmapTextObjects3.length = 0;
+gdjs.MenuCode.GDNewBitmapTextObjects4.length = 0;
+gdjs.MenuCode.GDNewPanelSpriteObjects1.length = 0;
+gdjs.MenuCode.GDNewPanelSpriteObjects2.length = 0;
+gdjs.MenuCode.GDNewPanelSpriteObjects3.length = 0;
+gdjs.MenuCode.GDNewPanelSpriteObjects4.length = 0;
 
 
 return;
