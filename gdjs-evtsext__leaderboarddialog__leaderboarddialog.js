@@ -347,7 +347,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("PlayerNameInput"), gdjs.evtsExt
 }{for(var i = 0, len = gdjs.evtsExt__LeaderboardDialog__LeaderboardDialog.LeaderboardDialog.prototype.doStepPostEventsContext.GDPlayerNameInputObjects1.length ;i < len;++i) {
     gdjs.evtsExt__LeaderboardDialog__LeaderboardDialog.LeaderboardDialog.prototype.doStepPostEventsContext.GDPlayerNameInputObjects1[i].setDisabled(true);
 }
-}{gdjs.playerAuthentication.displayAuthenticationBanner(runtimeScene);
+}{gdjs.playerAuthentication.removeAuthenticationBanner(runtimeScene);
 }}
 
 }
@@ -360,7 +360,7 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.leaderboards.isLeaderboardViewErrored();
 if (isConditionTrue_0) {
-{gdjs.playerAuthentication.displayAuthenticationBanner(runtimeScene);
+{gdjs.playerAuthentication.removeAuthenticationBanner(runtimeScene);
 }}
 
 }
