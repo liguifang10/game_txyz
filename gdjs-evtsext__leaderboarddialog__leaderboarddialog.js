@@ -95,7 +95,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Leaderb
 {for(var i = 0, len = gdjs.evtsExt__LeaderboardDialog__LeaderboardDialog.LeaderboardDialog.prototype.onCreatedContext.GDObjectObjects1.length ;i < len;++i) {
     gdjs.evtsExt__LeaderboardDialog__LeaderboardDialog.LeaderboardDialog.prototype.onCreatedContext.GDObjectObjects1[i].SetDefaultPlayerName(eventsFunctionContext.getObjects("Object")[0]._getDefaultPlayerName(), (typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined));
 }
-}{gdjs.playerAuthentication.displayAuthenticationBanner(runtimeScene);
+}{gdjs.playerAuthentication.removeAuthenticationBanner(runtimeScene);
 }{for(var i = 0, len = gdjs.evtsExt__LeaderboardDialog__LeaderboardDialog.LeaderboardDialog.prototype.onCreatedContext.GDHighScoreChangedObjects1.length ;i < len;++i) {
     gdjs.evtsExt__LeaderboardDialog__LeaderboardDialog.LeaderboardDialog.prototype.onCreatedContext.GDHighScoreChangedObjects1[i].hide();
 }
